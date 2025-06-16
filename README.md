@@ -10,10 +10,8 @@
 
 <img alt="" src="https://img.shields.io/badge/Java-ED8B00.svg?&style=for-the-badge&logo=Java&logoColor=black" alt="Java"/>
 <img alt="" src="https://img.shields.io/badge/JavaScript-f7df1e.svg?&style=for-the-badge&logo=JavaScript&logoColor=black" alt="Javascript"/>
-<img alt="" src="https://img.shields.io/badge/C%23-5C2D91.svg?&style=for-the-badge&logo=C-sharp&logoColor=white" alt="C-sharp"/>
-<img alt="" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&&logoColor=white" alt="C++"/>
-<img alt="" src="https://img.shields.io/badge/html5%20-dd4b25.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-<img alt="" src="https://img.shields.io/badge/lua%20-00007c.svg?&style=for-the-badge&logo=lua&logoColor=<logo-color>" alt="LUA"/>
+<img alt="" src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=fff" alt="Python"/>
+<img alt="" src="https://img.shields.io/badge/R-%23276DC3.svg?&style=for-the-badge&logo=R&logoColor=white" alt="R"/>
 <img alt="" src="https://img.shields.io/badge/react%20-00007c.svg?&style=for-the-badge&logo=react&logoColor=<logo-color>" alt="REACT"/>
   
 </div>  
